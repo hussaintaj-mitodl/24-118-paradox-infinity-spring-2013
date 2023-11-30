@@ -4,6 +4,7 @@ course_id: 24-118-paradox-infinity-spring-2013
 description: ''
 file: null
 file_location: /coursemedia/24-118-paradox-infinity-spring-2013/528ce33ddb280c6411dd7fc02220042f_MIT24_118S13_ProbSet9.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

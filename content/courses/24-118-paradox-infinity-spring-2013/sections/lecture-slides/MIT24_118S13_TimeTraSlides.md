@@ -4,6 +4,7 @@ course_id: 24-118-paradox-infinity-spring-2013
 description: ''
 file: null
 file_location: /coursemedia/24-118-paradox-infinity-spring-2013/6b7b0577f8ec49f4ef07c9bb95ad9a6e_MIT24_118S13_TimeTraSlides.pdf
+file_size: null
 file_type: application/pdf
 layout: pdf
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
